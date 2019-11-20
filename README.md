@@ -34,3 +34,5 @@ To see the the next step, click on the "Next" button
 ![After step 3](https://github.com/RitoJosephDominado/KmeansGui/blob/master/images/After%20step%203.png?raw=true "After step 3")
 
 
+To run a another simulation, click on the "Reset" button. Enter new parameters, then click "Start" again
+![To reset](https://github.com/RitoJosephDominado/KmeansGui/blob/master/images/To%20reset.png?raw=true "To reset")
