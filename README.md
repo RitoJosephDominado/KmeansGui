@@ -13,4 +13,4 @@ pip install PyQt5
 
 
 ### Demo
-![On startup](/images/On startup.png?raw=true "On startup")
+[On startup](https://github.com/RitoJosephDominado/KmeansGui/blob/master/images/On%20startup.png?raw=true "On startup")
